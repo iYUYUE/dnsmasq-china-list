@@ -16,8 +16,8 @@ jobs:
       - name: Merge Upstream
         uses: discdiver/merge-from-upstream-repo@v0.0.9
         with:
-          admin@iyuyue.com                 # set the user email for git commits
-          iYUYUE                  # set the user name for git commits
+          useremail: admin@iyuyue.com                 # set the user email for git commits
+          username: iYUYUE                  # set the user name for git commits
           upstream: felixonmars/dnsmasq-china-list      # set the upstream repo
           upstream-branch: master   # set the upstream branch to merge from
           branch: master          # set the branch to merge to
