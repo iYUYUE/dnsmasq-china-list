@@ -14,8 +14,10 @@ jobs:
           ref: master             # set the branch to merge to
           fetch-depth: 0 
       - name: Merge Upstream
-        uses: exions/merge-upstream@v1
+        uses: discdiver/merge-from-upstream-repo@v0.0.9
         with:
+          admin@iyuyue.com                 # set the user email for git commits
+          iYUYUE                  # set the user name for git commits
           upstream: felixonmars/dnsmasq-china-list      # set the upstream repo
           upstream-branch: master   # set the upstream branch to merge from
           branch: master          # set the branch to merge to
