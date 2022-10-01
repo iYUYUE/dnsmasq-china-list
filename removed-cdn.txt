@@ -1,6 +1,5 @@
 1.cms.s81c.com
 1.www.s81c.com
-2mdn.net
 account.htcvive.com
 achievements.xboxlive.com
 adfarm.mediaplex.com
@@ -27,7 +26,6 @@ cdn.ampproject.org #281
 cdn.jsdelivr.net
 cdnjs.loli.net
 cdn.loli.net
-checkin.gstatic.com
 china-cdn2.unityads.unity3d.com
 china-cdn3.unityads.unity3d.com
 china.msn.com
@@ -84,7 +82,6 @@ emoi-cncdn.bing.com
 encoding.image-gmkt.com
 epix-ssl.xbox.com
 epix.xbox.com
-fonts.gstatic.com
 fonts.loli.net
 gameplay.intel.com
 gateway.craft.moe
