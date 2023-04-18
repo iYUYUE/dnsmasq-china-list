@@ -55,6 +55,7 @@ createpoint.qti.qualcomm.com
 cs-analytics.htcsense.com
 c.s-microsoft.com
 developer.htcvive.com
+developer.vive.com
 dlassets-ssl.xboxlive.com
 dlassets.xboxlive.com
 dlcdnets.asus.com
@@ -199,6 +200,7 @@ www-ssl.intel.com
 www.sulwhasoo.com
 www.travelzoo.com
 www.tutorabc.com
+www.vive.com
 xb.dlservice.microsoft.com
 x-dash-public.rec.mp.microsoft.com
 z0.muscache.com
