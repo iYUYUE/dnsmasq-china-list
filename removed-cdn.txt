@@ -1,6 +1,5 @@
 1.cms.s81c.com
 1.www.s81c.com
-account.htcvive.com
 achievements.xboxlive.com
 adfarm.mediaplex.com
 ad.mediaplex.com
@@ -13,9 +12,7 @@ avatarread-ssl.xboxlive.com
 avatarread.xboxlive.com
 avatar-ssl.xboxlive.com
 avatar.xboxlive.com
-blog.htcvive.com
 blog.tutorabc.com
-blog.vive.com
 cashier.alipay.com.srip.net
 catalog-cdn.xboxlive.com
 cdn1.evernote.com
@@ -49,13 +46,10 @@ configure.ap.dell.com
 console-service.halo.xbox.com
 console-service-ssl.halo.xbox.com
 content.nike.com
-contentstore.htcvive.com
 cortexfx.bnpparibas.com
 createpoint.qti.qualcomm.com
 cs-analytics.htcsense.com
 c.s-microsoft.com
-developer.htcvive.com
-developer.vive.com
 dlassets-ssl.xboxlive.com
 dlassets.xboxlive.com
 dlcdnets.asus.com
@@ -71,7 +65,6 @@ ec4.images-amazon.com
 ec8.images-amazon.com
 editorial.xboxlive.com
 eds.xboxlive.com
-emdl.ws.microsoft.com
 emoi-cncdn.bing.com
 encoding.image-gmkt.com
 epix-ssl.xbox.com
@@ -160,7 +153,6 @@ settings.crashlytics.com
 settings.xboxlive.com
 shop.samsung.com
 sina.com.hk
-source.tutorabc.com
 speedtest.xboxlive.com
 ssl.travelzoo.com
 ssl.tzoo-img.com
@@ -202,8 +194,6 @@ www.renren.com.cdngc.net
 www-ssl.intel.com
 www.sulwhasoo.com
 www.travelzoo.com
-www.tutorabc.com
-www.vive.com
 xb.dlservice.microsoft.com
 x-dash-public.rec.mp.microsoft.com
 z0.muscache.com
