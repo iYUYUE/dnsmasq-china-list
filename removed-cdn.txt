@@ -1,5 +1,6 @@
 1.cms.s81c.com
 1.www.s81c.com
+account.samsung.com
 achievements.xboxlive.com
 adfarm.mediaplex.com
 ad.mediaplex.com
@@ -8,6 +9,7 @@ altfarm.mediaplex.com
 ark.intel.com
 assets.adobedtm.com
 assets-ssl.xbox.com
+assets.volvocars.com
 avatarread-ssl.xboxlive.com
 avatarread.xboxlive.com
 avatar-ssl.xboxlive.com
@@ -15,6 +17,7 @@ avatar.xboxlive.com
 bg4.v4.a.dl.ws.microsoft.com
 bg.v4.a.dl.ws.microsoft.com
 blog.tutorabc.com
+build.microsoft.com
 cashier.alipay.com.srip.net
 catalog-cdn.xboxlive.com
 cdn1.evernote.com
@@ -22,6 +25,7 @@ cdn.ampproject.org #281
 cdn.jsdelivr.net
 cdnjs.loli.net
 cdn.loli.net
+cdn.marketplaceimages.windowsphone.com
 china-cdn2.unityads.unity3d.com
 china-cdn3.unityads.unity3d.com
 china.msn.com
@@ -31,6 +35,7 @@ cl2.apple.com.edgekey.net.globalredir.akadns.net
 click.dji.com
 client-download.steampowered.com
 clubhub.xboxlive.com
+clubweixin.samsung.com
 cms.ibm.com
 cn-api.samsungcloud.com
 cn.coremetrics.com
@@ -64,6 +69,7 @@ download.mcafee.com
 download.parallels.com
 download-ssl.xbox.com
 download.xboxlive.com
+dp.image-gmkt.com
 e.admob.com
 ec4.images-amazon.com
 ec8.images-amazon.com
@@ -78,6 +84,7 @@ events2.djicdn.com
 fonts.loli.net
 gameplay.intel.com
 gateway.craft.moe
+gdssl.image-gmkt.com
 g-ec4.images-amazon.com
 gfwsl.geforce.com
 globalsigncdn.com
@@ -86,6 +93,7 @@ gsp11-cn.ls.apple.com
 gsp12-cn.ls.apple.com
 gstatic.loli.net
 hdn.xnimg.cn.cdngc.net
+images.benchmarkemail.com
 images-cn-4.ssl-images-amazon.com
 images-cn-8.ssl-images-amazon.com
 images-cn.ssl-images-amazon.com
@@ -139,6 +147,7 @@ platform.linkedin.com
 plus.djicdn.com
 prm.dji.com
 profile.xboxlive.com
+qh.dlservice.microsoft.com
 redirector.c.docs.google.com
 redirector.c.drive.google.com
 res.office365.com
@@ -158,8 +167,10 @@ sekong.cn.com
 settings.crashlytics.com
 settings.xboxlive.com
 shop.samsung.com
+silverlight.dlservice.microsoft.com
 sina.com.hk
 siportal.cdnetworks.com
+slupdate.dlservice.microsoft.com
 source.tutorabc.com
 speedtest.xboxlive.com
 ssl.travelzoo.com
@@ -167,9 +178,11 @@ ssl.tzoo-img.com
 static-exp1.licdn.com
 static.image-gmkt.com
 static.licdn.com
+staticssl.image-gmkt.com
 static.yangfd.com
 store-images.microsoft.com
 store-images.s-microsoft.com
+store.nike.com
 store.samsung.com
 tcl.com.ru
 tiles.xbox.com
@@ -189,8 +202,10 @@ v2ex.com
 web-service.halo.xbox.com
 web-service-ssl.halo.xbox.com
 webview.unityads.unity3d.com
+wl.dlservice.microsoft.com
 www-05.ibm.com
 www1-cdn.dell.com
+www8.hp.com
 www.agoda.com
 www-api.ibm.com
 www.ericsson.com
