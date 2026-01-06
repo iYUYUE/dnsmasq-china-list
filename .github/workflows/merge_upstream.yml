@@ -1,0 +1,23 @@
+name: Scheduled Merge Remote Action
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  merge-upstream:
+    runs-on: ubuntu-latest
+    steps: 
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: master             # set the branch to merge to
+          fetch-depth: 0 
+      - name: Merge Upstream
+        uses: discdiver/merge-from-upstream-repo@v0.0.9
+        with:
+          useremail: admin@iyuyue.com                 # set the user email for git commits
+          username: iYUYUE                  # set the user name for git commits
+          upstream: felixonmars/dnsmasq-china-list      # set the upstream repo
+          upstream-branch: master   # set the upstream branch to merge from
+          branch: master          # set the branch to merge to
